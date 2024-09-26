@@ -5,7 +5,9 @@ This is my first local change to the repo!
 
 1. # Part 1
 ## Piet Mondrian’s Broadway Boogie Woogie 
-Mondrian's artwork offering a framework for balancing structure and spontaneity. The painting’s grid of bold lines and primary colors conveys a sense of order, while the rhythm and repetition evoke dynamic movement, akin to the energy of a city or a fast-paced environment. 
+![Broadway Boogie Woogie](readmeimages/Piet_MondrianBroadway_Boogie_Woogie.jpeg)
+
+Mondrian's artwork offering a framework for balancing structure and spontaneity. The painting’s grid of bold lines and primary colors conveys a sense of order, while the rhythm and repetition evoke **dynamic movement**, akin to the energy of a city or a fast-paced environment. 
 
 For my creative coding main project, I can incorporate this duality: using a structured layout (such as a grid system) to guide users, while also introducing playful elements, like color or movement, to keep the experience engaging and lively. This approach would express __the beauty of reason__ without sacrificing creativity. 
 
